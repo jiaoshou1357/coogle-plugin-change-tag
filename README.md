@@ -12,3 +12,6 @@ https://hardhat.org/docs
  输入 "de" 匹配结果 "development"
  输入 "Har" 匹配结果 "Hardhat"
  注意目前代码中匹配规则有待完善，有些匹配有漏洞。
+ #### 部分功能截图
+ 
+![截图20240912003821](https://github.com/user-attachments/assets/8f129be9-dea7-49ff-920a-232293c61015)
