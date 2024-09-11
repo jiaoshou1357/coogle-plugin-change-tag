@@ -1,0 +1,18 @@
+{
+    "name": "coogle-change-tag",
+    "version": "1.0",
+    "description": "it can change html text",
+    "manifest_version": 2,
+    "permissions": ["activeTab"],
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    },
+    "content_scripts": [
+        {
+          "matches": ["http://*/*", "https://*/*"],
+          "js": ["change-tag-core.js"],
+           "run_at": "document_end"
+        }
+    ]
+}
