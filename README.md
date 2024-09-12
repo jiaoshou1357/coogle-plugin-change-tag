@@ -6,12 +6,12 @@
 https://hardhat.org/docs
 ### 功能介绍(注意一定是英文网站)
  #### 1.匹配英文单词边界，插入到该单词前方，并且绑定了点击事件.
- #### 2.滚动条事件做了一半部分代码注释了，监听滚动条.
- #### 3.剩余功能基本思路：做完一次匹配后加特定的class做标记，下次滚动条滚动避免重读替换操作.
- #### 例如："Hardhat is a development" 
-  #### 输入 "de" 匹配结果 "development"
-  #### 输入 "Har" 匹配结果 "Hardhat"
- 注意目前代码中匹配规则有待完善，有些匹配有漏洞。
+ #### 例如："Hardhat is a development environment for  Ethereum software" 
+  #### 输入 "Eth" 匹配结果 "Ethereum"
+  #### 输入 "envir" 匹配结果 "environment"
+ 注意目前代码中匹配规则有待完善，有些匹配有漏洞;滚动条事件做了一半部分代码注释了，监听滚动条.
+ 剩余功能基本思路：做完一次匹配后加特定的class做标记，下次滚动条滚动避免重读替换操作.
  ### 部分功能截图
  
-![截图20240912003821](https://github.com/user-attachments/assets/8f129be9-dea7-49ff-920a-232293c61015)
+![image](https://github.com/user-attachments/assets/335a4162-4acb-4241-b0b5-f031f1a575a1)
+
