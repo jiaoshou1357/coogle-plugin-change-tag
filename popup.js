@@ -1,9 +1,3 @@
-
-/**
- * 
- * @param {*} type = all 传入Curreny和keyword的值
- * @param {*} type = curreny 传入Curreny的value
- */
 function sendValue(type) {
     chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
         var keywords = ''
