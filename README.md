@@ -16,5 +16,7 @@ https://hardhat.org/docs
  ### 部分功能截图
  
 ![image](https://github.com/user-attachments/assets/335a4162-4acb-4241-b0b5-f031f1a575a1)
+![image](https://github.com/user-attachments/assets/8e0b3775-36b6-4dd7-b574-183b0c7f30ff)
+
 
 
