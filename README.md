@@ -5,9 +5,9 @@
 ## 测试网站地址：
  https://x.com/search?q=hah&src=typed_query&f=top
 ### 功能介绍(注意一定是英文网站)
- #### 1.匹配英文单词边界，插入到该单词前方，并且绑定了点击事件.
- #### 2.匹配"@XXX"或者"#XXX"或者"$XXX"，并且标黄，插入币对值。
- ### 部分功能截图
+#### 1.匹配英文单词边界，插入到该单词前方，并且绑定了点击事件.
+#### 2.匹配"@XXX"或者"#XXX"或者"$XXX"，并且标黄，插入币对值。
+### 部分功能截图
  ![image](https://github.com/user-attachments/assets/b6f8e14d-da8b-4ae8-959e-b318ab047eec)
 
 ![image](https://github.com/user-attachments/assets/65c90b86-80b5-4fdb-aafd-7274ec2794fc)
